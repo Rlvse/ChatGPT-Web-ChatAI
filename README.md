@@ -26,8 +26,15 @@
 
 服务器搭建/项目部署问题，可以扫PDF二维码联系
 
+<img src="./README.assets/6.jpg" alt="6" style="zoom:50%;" />
+
 ## ⚡小程序万能生成器版本
 
+在线体验
+
+![5](./README.assets/5.jpg)
+
 ```https://github.com/Rlvse/ChatGPT-miniapp
+https://gitee.com/JN910-14/ChatGPT-miniapp
 https://github.com/Rlvse/ChatGPT-miniapp
 ```
